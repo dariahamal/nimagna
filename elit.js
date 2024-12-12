@@ -1,0 +1,1 @@
+let styleProp = "color: blue";
